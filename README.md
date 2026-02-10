@@ -1,7 +1,7 @@
 # AWS Observability & Cost Analysis
 
 ## 📌 Overview
-This project implements **Task 3: Observability & Cost Analysis** on the **AWS platform**.  
+This project implements **Observability & Cost Analysis** on the **AWS platform**.  
 The lab demonstrates how to monitor EC2 performance, configure CloudWatch alarms, simulate high CPU usage, visualize metrics using dashboards, and analyze system behavior for cost awareness and optimization.
 
 ---
