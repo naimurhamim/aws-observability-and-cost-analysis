@@ -212,6 +212,5 @@ The stress-ng tool intentionally generated CPU load, validating real-time monito
 This lab provided hands-on experience with AWS observability tools, real-time monitoring, alarm testing, and highlighted the importance of performance visibility and cost awareness in cloud environments.
 
 ---
-- MD Naimur Rashid
-- University of Frontier Technology, Bangladesh
----
+**MD Naimur Rashid**  
+University of Frontier Technology
