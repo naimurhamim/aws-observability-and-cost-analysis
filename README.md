@@ -1,3 +1,31 @@
+# AWS Observability & Cost Analysis
+
+## 📌 Overview
+This project implements **Task 3: Observability & Cost Analysis** on the **AWS platform**.  
+The lab demonstrates how to monitor EC2 performance, configure CloudWatch alarms, simulate high CPU usage, visualize metrics using dashboards, and analyze system behavior for cost awareness and optimization.
+
+---
+
+## 🎯 Objectives
+- Enable monitoring for AWS resources  
+- Observe key performance metrics (CPU, Network)  
+- Configure and test CloudWatch alarms  
+- Visualize metrics using dashboards  
+- Understand resource usage and cost impact  
+
+---
+
+## 🛠️ AWS Services Used
+- Amazon EC2  
+- Amazon CloudWatch (Metrics, Alarms, Dashboards)  
+- AWS CloudShell  
+- Ubuntu 22.04 (EC2 Instance)  
+
+---
+
+## 📂 Screenshots Directory Structure
+All screenshots are stored inside the `screenshots/` directory.
+
 
 ---
 
