@@ -1,4 +1,9 @@
 # AWS Observability & Cost Analysis
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-Monitoring-FF4F8B?style=for-the-badge)
+![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-Cloud%20Ops-blue?style=for-the-badge)
+![Cost](https://img.shields.io/badge/Cost-Optimization-green?style=for-the-badge)
 
 ## 📌 Overview
 This project implements **Observability & Cost Analysis** on the **AWS platform**.  
